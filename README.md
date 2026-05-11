@@ -222,14 +222,6 @@ pytest tests/
 - Centralize prompts in `prompts.py`
 - Add safety checks in `guardrails.py`
 
-## Troubleshooting
-
-### FAISS Index Not Found
-
-```bash
-python scripts/build_index.py
-```
-
 ### Run main app
 
 ```bash
