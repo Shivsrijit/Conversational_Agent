@@ -230,20 +230,8 @@ pytest tests/
 python scripts/build_index.py
 ```
 
-### Port Already in Use
+### Run main app
 
 ```bash
-python app/main.py --port 8001
+python app/main.py 
 ```
-
-### Import Errors
-
-Ensure `sys.path` includes the app directory (see `app/main.py`)
-
-## License
-
-[Add your license information here]
-
-## Support
-
-For issues, questions, or contributions, please [add contact information or repository link].
